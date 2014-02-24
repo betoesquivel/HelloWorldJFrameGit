@@ -21,6 +21,7 @@ public class HelloWorldGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Hugo León Garza
         JFrameHolaMundo holaMundo = new JFrameHolaMundo();
         holaMundo.setVisible(true);
     }
